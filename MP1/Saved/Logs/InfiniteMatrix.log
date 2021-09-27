@@ -2654,3 +2654,126 @@ Make sure 'BP_Tunnel_C' has been compiled for  Randomize Health Pack
 [2021.09.27-03.50.31:308][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.27-03.50.31:325][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
 [2021.09.27-03.50.31:349][344]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.09.27-03.52.17:512][935]BlueprintLog: New page: Compile BP_HealthPack
+[2021.09.27-03.52.17:567][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.09.27-03.52.18:039][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_HealthPack" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2021.09.27-03.52.18:052][985]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_HealthPack601C25D44613E36E308514AED84D10CD.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2021.09.27-03.52.18:063][985]AssetCheck: New page: Asset Save: BP_HealthPack
+[2021.09.27-03.52.18:063][985]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2021.09.27-03.53.39:294][968]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-03.53.39:351][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.09.27-03.53.39:946][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-03.53.39:970][ 27]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel4E93907847ECCF87192AC2B616A6558B.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-03.53.39:983][ 27]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-03.53.39:983][ 27]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-03.54.28:457][740]BlueprintLog: New page: Compile BP_HealthPack
+[2021.09.27-03.54.28:517][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.09.27-03.54.29:190][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_HealthPack" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2021.09.27-03.54.29:204][812]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_HealthPackCE3399354E0599B8520AE894F5F3E333.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2021.09.27-03.54.29:217][812]AssetCheck: New page: Asset Save: BP_HealthPack
+[2021.09.27-03.54.29:217][812]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2021.09.27-03.55.48:640][799]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.09.27-03.55.48:650][799]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/TutorialMap_Auto51B8674E54C7C255A4DD6B4BC0CFBE0C0.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto5.umap'
+[2021.09.27-03.55.48:653][799]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.049
+[2021.09.27-03.55.48:653][799]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2021.09.27-03.55.48:653][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2021.09.27-03.55.48:662][799]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2021.09.27-03.55.48:669][799]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2021.09.27-03.55.48:669][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2021.09.27-03.55.48:694][799]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel_Auto5DA9065374CEA30DE0C2ACF90245C02B0.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto5.uasset'
+[2021.09.27-03.55.48:696][799]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.09.27-03.58.10:184][987]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-03.58.10:249][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.09.27-03.58.11:025][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-03.58.11:050][ 69]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel984C10AF4AF639DA6A4685907FF7E2A6.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-03.58.11:061][ 69]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-03.58.11:061][ 69]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-03.58.11:915][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-03.58.11:937][169]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel14541E54440ACA47F19124AE1EF4EDA6.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-03.58.11:949][169]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-03.58.11:949][169]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-03.58.27:707][  5]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-03.58.27:766][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.09.27-03.58.28:429][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-03.58.28:453][ 75]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelBC9896B740A7FC72540D66A8EA4045BA.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-03.58.28:465][ 75]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-03.58.28:465][ 75]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-03.58.33:655][677]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2021.09.27-03.58.33:658][677]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2021.09.27-03.58.33:662][677]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.33:662][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.33:783][677]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.27-03.58.33:783][677]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.33:783][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.33:874][677]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.33:875][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.33:885][677]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.33:885][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.33:968][677]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.33:968][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.33:977][677]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.33:977][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.34:041][677]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.27-03.58.34:041][677]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.34:041][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.34:103][677]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.27-03.58.34:103][677]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.34:103][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.36:739][984]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-03.58.36:743][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-03.58.36:743][984]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 5:58:36 PM)
+[2021.09.27-03.58.36:743][984]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-03.58.36:745][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001282s)
+[2021.09.27-03.58.36:746][984]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-03.58.36:746][984]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2021.09.27-03.58.36:746][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002233s)
+[2021.09.27-03.58.36:841][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.09.27-03.58.36:844][984]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-03.58.36:844][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-03.58.36:844][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-03.58.36:845][984]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-03.58.36:845][984]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-03.58.36:847][984]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-03.58.36:847][984]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-03.58.36:854][984]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-03.58.36:854][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-03.58.36:854][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-03.58.36:854][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-03.58.36:855][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-03.58.36:855][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-03.58.36:855][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-03.58.36:865][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-03.58.36:865][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-03.58.36:865][984]LogInit: FAudioDevice initialized.
+[2021.09.27-03.58.36:865][984]LogAudio: Display: Audio Device (ID: 18) registered with world 'TutorialMap'.
+[2021.09.27-03.58.36:891][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-03.58.36:891][984]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-03.58.36:892][984]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-22.58.36
+[2021.09.27-03.58.36:892][984]LogWorld: Bringing up level for play took: 0.000439
+[2021.09.27-03.58.36:892][984]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.09.27-03.58.36:898][984]PIE: Server logged in
+[2021.09.27-03.58.36:898][984]PIE: Play in editor total start time 0.155 seconds.
+[2021.09.27-03.58.58:228][527]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-03.58.58:228][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-03.58.58:301][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-03.58.58:301][532]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-03.58.58:301][532]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-03.58.58:305][532]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-03.58.58:305][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.58:311][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-03.58.58:315][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-03.58.58:325][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-03.58.58:326][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-03.58.58:343][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.09.27-03.58.58:379][534]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.09.27-03.59.01:750][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.09.27-03.59.01:759][927]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/TutorialMapA62BEC6F43F5EF99DFDFB0BC1E1C6487.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.27-03.59.01:778][927]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-03.59.01:778][927]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.27-03.59.01:778][927]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
