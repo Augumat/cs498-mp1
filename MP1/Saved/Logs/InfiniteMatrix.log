@@ -3477,3 +3477,71 @@ Make sure 'BP_Bullet_C' has been compiled for  Get BulletSpeedMultiplier
 [2021.09.27-04.41.51:387][713]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
 [2021.09.27-04.41.52:061][791]BlueprintLog: New page: Compile BP_Tunnel
 [2021.09.27-04.41.52:104][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.09.27-04.45.19:468][843]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBarHUD.HealthBarHUD
+[2021.09.27-04.45.40:459][241]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.27-04.48.30:477][ 35]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-04.48.30:519][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.09.27-04.48.30:936][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/UI/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-04.48.30:946][ 78]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD9558D04245CD7EAF1C996E9F786D7A82.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/UI/HealthBarHUD.uasset'
+[2021.09.27-04.48.30:956][ 78]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-04.48.30:956][ 78]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBarHUD.HealthBarHUD
+[2021.09.27-04.48.32:043][203]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-04.48.32:048][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-04.48.32:048][203]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 6:48:32 PM)
+[2021.09.27-04.48.32:048][203]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.48.32:049][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001278s)
+[2021.09.27-04.48.32:050][203]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-04.48.32:050][203]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.09.27-04.48.32:050][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002210s)
+[2021.09.27-04.48.32:073][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.27-04.48.32:074][203]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-04.48.32:074][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-04.48.32:074][203]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-04.48.32:074][203]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-04.48.32:077][203]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-04.48.32:077][203]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-04.48.32:084][203]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-04.48.32:084][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-04.48.32:084][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-04.48.32:084][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-04.48.32:085][203]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-04.48.32:085][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-04.48.32:085][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-04.48.32:096][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-04.48.32:096][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-04.48.32:096][203]LogInit: FAudioDevice initialized.
+[2021.09.27-04.48.32:096][203]LogAudio: Display: Audio Device (ID: 24) registered with world 'TutorialMap'.
+[2021.09.27-04.48.32:123][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.48.32:123][203]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-04.48.32:124][203]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-23.48.32
+[2021.09.27-04.48.32:124][203]LogWorld: Bringing up level for play took: 0.000430
+[2021.09.27-04.48.32:124][203]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.09.27-04.48.32:131][203]PIE: Server logged in
+[2021.09.27-04.48.32:131][203]PIE: Play in editor total start time 0.084 seconds.
+[2021.09.27-04.48.34:121][424]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.48.34:121][424]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-04.48.35:805][613]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-04.48.35:811][613]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.48.35:832][613]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-04.48.35:832][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.48.35:839][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-04.48.35:842][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.48.35:865][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-04.48.35:865][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.48.35:866][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.48.35:882][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.09.27-04.48.35:912][615]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.09.27-04.48.39:130][995]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::LessEqual_IntInt' [Element not found.]
+[2021.09.27-04.48.55:412][874]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-04.48.55:440][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.09.27-04.48.55:878][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/UI/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-04.48.55:888][922]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD193FDC0D4D2BC81F4AD01B8D72A8ACAF.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/UI/HealthBarHUD.uasset'
+[2021.09.27-04.48.55:897][922]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-04.48.55:897][922]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/UI/HealthBarHUD.HealthBarHUD
