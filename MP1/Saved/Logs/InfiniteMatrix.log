@@ -1211,3 +1211,560 @@ Script Stack (0 frames):
 [2021.09.27-01.56.50:453][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.27-01.56.50:468][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
 [2021.09.27-01.56.50:494][308]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.09.27-02.04.30:576][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.04.30:593][787]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel146DBD094AAC62B59746A09439D8339E.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.04.30:604][787]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.04.30:604][787]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.25.51:918][739]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:189330).
+[2021.09.27-02.29.10:835][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.29.10:854][ 18]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelF68E0BFC43A2225D6590BB825BC84EC8.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.29.10:867][ 18]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.29.10:867][ 18]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.29.11:377][ 76]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-02.29.11:418][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.09.27-02.29.39:700][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.29.39:721][361]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelF3C57BFC408B7DB82BD037A4B8ED5AD6.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.29.39:732][361]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.29.39:732][361]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.29.49:442][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.29.49:460][497]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel4F9A95E34DEB97D39C2F9687E95F69FC.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.29.49:470][497]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.29.49:470][497]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.29.50:925][670]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-02.29.50:968][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.09.27-02.30.04:623][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.30.04:644][288]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel2FD0660A4D6436CFED8583BC3E6C9B83.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.30.04:655][288]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.30.04:655][288]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.30.05:091][339]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-02.30.05:135][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.09.27-02.30.42:379][745]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.30.42:428][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.09.27-02.30.42:999][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.30.43:023][808]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_PlayerBDF0CD2A454B26AC135890BCAA3F7C9C.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.30.43:034][808]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.30.43:034][808]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.31.37:785][127]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.27-02.31.37:803][127]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.27-02.31.44:249][900]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ScoreHUD
+[2021.09.27-02.31.44:254][900]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.27-02.31.45:790][ 82]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/Blueprints/ScoreHUD.ScoreHUD
+[2021.09.27-02.33.33:970][611]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.33.34:024][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.27-02.33.37:631][ 26]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.33.37:684][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.09.27-02.33.38:223][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.33.38:247][ 83]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player8ADAFF284B7816370089C6A67DB100BA.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.33.38:257][ 83]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.33.38:257][ 83]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.34.35:316][858]LogEditorTransaction: Undo Rename Function
+[2021.09.27-02.36.51:874][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/ScoreHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/ScoreHUD.uasset" SILENT=true
+[2021.09.27-02.36.51:880][865]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/ScoreHUD643A1E4F4828D3BC4545B29E5CDDDFE9.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/ScoreHUD.uasset'
+[2021.09.27-02.36.51:892][865]AssetCheck: New page: Asset Save: ScoreHUD
+[2021.09.27-02.36.51:892][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/ScoreHUD.ScoreHUD
+[2021.09.27-02.36.52:471][934]BlueprintLog: New page: Compile ScoreHUD
+[2021.09.27-02.36.52:513][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.27-02.36.54:720][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/ScoreHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/ScoreHUD.uasset" SILENT=true
+[2021.09.27-02.36.54:727][187]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/ScoreHUD07BD1E224903407E4A3423A9FC8D8C70.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/ScoreHUD.uasset'
+[2021.09.27-02.36.54:745][187]AssetCheck: New page: Asset Save: ScoreHUD
+[2021.09.27-02.36.54:745][187]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/ScoreHUD.ScoreHUD
+[2021.09.27-02.37.52:260][851]LogWindows: LaunchFileInExternalEditor C:/Users/Work Ethic/Desktop/UE_4.26/Engine/Source/Runtime/UMG/Public/Components/TextBlock.h 
+[2021.09.27-02.37.52:343][851]LogWindows: Launch application code for C:/Users/Work Ethic/Desktop/UE_4.26/Engine/Source/Runtime/UMG/Public/Components/TextBlock.h : 42
+[2021.09.27-02.37.52:343][851]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.09.27-02.37.52:351][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:351][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:351][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:351][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:352][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:353][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:354][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:355][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:356][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:357][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:358][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:359][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:360][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:361][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:361][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:361][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:361][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:361][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:363][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:363][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:366][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:389][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:389][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:389][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:390][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:390][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:390][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:390][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:397][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:398][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:431][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:432][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:432][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:432][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:434][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.37.52:452][851]LogVSAccessor: Warning: Couldn't access module table
+[2021.09.27-02.38.23:363][360]BlueprintLog: New page: Compile ScoreHUD
+[2021.09.27-02.38.23:402][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.27-02.38.23:981][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/ScoreHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/ScoreHUD.uasset" SILENT=true
+[2021.09.27-02.38.23:988][417]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/ScoreHUD92F9E0D2483DDFCDF319D68B521D5136.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/ScoreHUD.uasset'
+[2021.09.27-02.38.24:000][417]AssetCheck: New page: Asset Save: ScoreHUD
+[2021.09.27-02.38.24:000][417]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/ScoreHUD.ScoreHUD
+[2021.09.27-02.38.28:465][935]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.38.28:514][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.09.27-02.38.29:606][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.38.29:629][ 54]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player66CBD0E042202F63962711AE1E638095.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.38.29:639][ 54]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.38.29:639][ 54]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.38.36:898][917]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-02.38.36:944][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.09.27-02.38.37:506][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.38.37:526][977]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelF778F6714933D0FA7BAED5A90075D5B4.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.38.37:536][977]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.38.37:536][977]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.42.17:082][680]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-02.42.17:127][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.09.27-02.42.17:915][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.42.17:936][765]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelF5325E9F4F6E76C0899DD5959AB7CF4E.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.42.17:946][765]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.42.17:946][765]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.43.17:102][764]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-02.43.17:147][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.27-02.43.17:722][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.43.17:744][823]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel555C0C5A42B5B4CC50DDAC8881886B24.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.43.17:755][823]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.43.17:755][823]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.43.25:359][716]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-02.43.25:364][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-02.43.25:364][716]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 4:43:25 PM)
+[2021.09.27-02.43.25:364][716]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.43.25:370][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006136s)
+[2021.09.27-02.43.25:371][716]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-02.43.25:371][716]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2021.09.27-02.43.25:371][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007076s)
+[2021.09.27-02.43.25:396][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.09.27-02.43.25:396][716]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-02.43.25:396][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-02.43.25:396][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-02.43.25:397][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-02.43.25:397][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-02.43.25:400][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-02.43.25:400][716]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-02.43.25:408][716]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-02.43.25:408][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-02.43.25:408][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-02.43.25:408][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-02.43.25:409][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-02.43.25:409][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-02.43.25:409][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-02.43.25:420][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-02.43.25:420][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-02.43.25:420][716]LogInit: FAudioDevice initialized.
+[2021.09.27-02.43.25:420][716]LogAudio: Display: Audio Device (ID: 5) registered with world 'TutorialMap'.
+[2021.09.27-02.43.25:433][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.43.25:433][716]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-02.43.25:434][716]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-21.43.25
+[2021.09.27-02.43.25:434][716]LogWorld: Bringing up level for play took: 0.000447
+[2021.09.27-02.43.25:434][716]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.09.27-02.43.25:441][716]PIE: Server logged in
+[2021.09.27-02.43.25:442][716]PIE: Play in editor total start time 0.078 seconds.
+[2021.09.27-02.43.43:735][597]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-02.43.43:736][597]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-02.43.44:612][690]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-02.43.44:612][690]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-02.43.47:737][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.43.47:737][ 17]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.43.47:737][ 17]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-02.43.47:741][ 17]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-02.43.47:742][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.43.47:749][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-02.43.47:754][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.43.47:779][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-02.43.47:779][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.43.47:780][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.43.47:796][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.27-02.43.47:820][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.09.27-02.43.52:936][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.43.52:956][614]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel84D7195F468CE0251F3FA59A5D62259A.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.43.52:967][614]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.43.52:967][614]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.45.02:543][785]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.27-02.46.16:661][373]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.46.16:714][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.09.27-02.46.49:124][ 66]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.46.49:173][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.09.27-02.46.49:731][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.46.49:755][117]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_PlayerF078911C4AC490A4BBBDE69CA93B3ADF.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.46.49:765][117]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.46.49:765][117]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.46.51:757][353]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-02.46.51:762][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-02.46.51:762][353]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 4:46:51 PM)
+[2021.09.27-02.46.51:762][353]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.46.51:764][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001316s)
+[2021.09.27-02.46.51:764][353]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-02.46.51:764][353]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2021.09.27-02.46.51:764][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002173s)
+[2021.09.27-02.46.51:789][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.09.27-02.46.51:790][353]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-02.46.51:790][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-02.46.51:790][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-02.46.51:791][353]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-02.46.51:791][353]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-02.46.51:793][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-02.46.51:793][353]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-02.46.51:800][353]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-02.46.51:800][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-02.46.51:800][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-02.46.51:800][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-02.46.51:801][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-02.46.51:801][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-02.46.51:801][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-02.46.51:812][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-02.46.51:812][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-02.46.51:812][353]LogInit: FAudioDevice initialized.
+[2021.09.27-02.46.51:812][353]LogAudio: Display: Audio Device (ID: 6) registered with world 'TutorialMap'.
+[2021.09.27-02.46.51:837][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.46.51:837][353]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-02.46.51:838][353]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-21.46.51
+[2021.09.27-02.46.51:838][353]LogWorld: Bringing up level for play took: 0.000362
+[2021.09.27-02.46.51:838][353]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.09.27-02.46.51:844][353]PIE: Server logged in
+[2021.09.27-02.46.51:846][353]PIE: Play in editor total start time 0.084 seconds.
+[2021.09.27-02.47.13:910][723]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-02.47.13:910][723]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-02.47.14:640][801]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-02.47.14:640][801]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-02.47.18:516][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.47.18:516][212]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.47.18:517][212]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-02.47.18:521][212]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-02.47.18:521][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.47.18:530][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-02.47.18:534][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.47.18:557][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-02.47.18:557][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.47.18:558][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.47.18:574][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.09.27-02.47.18:599][213]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.09.27-02.47.26:316][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-02.47.26:321][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-02.47.26:321][117]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 4:47:26 PM)
+[2021.09.27-02.47.26:321][117]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.47.26:323][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001306s)
+[2021.09.27-02.47.26:323][117]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-02.47.26:323][117]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2021.09.27-02.47.26:323][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002221s)
+[2021.09.27-02.47.26:347][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.27-02.47.26:348][117]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-02.47.26:348][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-02.47.26:348][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-02.47.26:348][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-02.47.26:351][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-02.47.26:351][117]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-02.47.26:358][117]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-02.47.26:358][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-02.47.26:358][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-02.47.26:358][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-02.47.26:358][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-02.47.26:358][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-02.47.26:358][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-02.47.26:370][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-02.47.26:370][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-02.47.26:370][117]LogInit: FAudioDevice initialized.
+[2021.09.27-02.47.26:370][117]LogAudio: Display: Audio Device (ID: 7) registered with world 'TutorialMap'.
+[2021.09.27-02.47.26:389][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.47.26:389][117]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-02.47.26:390][117]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-21.47.26
+[2021.09.27-02.47.26:390][117]LogWorld: Bringing up level for play took: 0.000504
+[2021.09.27-02.47.26:390][117]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.09.27-02.47.26:397][117]PIE: Server logged in
+[2021.09.27-02.47.26:399][117]PIE: Play in editor total start time 0.078 seconds.
+[2021.09.27-02.47.39:589][511]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-02.47.39:589][511]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-02.47.40:711][632]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-02.47.40:711][632]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-02.47.41:776][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.47.41:776][743]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.47.41:776][743]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-02.47.41:780][743]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-02.47.41:781][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.47.41:788][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-02.47.41:793][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.47.41:815][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.47.41:816][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.47.41:832][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.27-02.47.41:855][744]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.09.27-02.48.39:673][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-02.48.39:695][606]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel6D4604364B17F66F5BA422BA529DD3F2.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-02.48.39:705][606]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-02.48.39:705][606]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-02.50.46:771][514]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.50.46:821][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.09.27-02.50.47:399][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.50.47:425][569]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player034208694D86262166C22985D078E56B.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.50.47:435][569]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.50.47:435][569]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.52.02:382][435]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-02.52.02:427][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.09.27-02.52.02:971][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.52.02:995][487]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_PlayerC15F52B44AFB9180E3E19F84109632D0.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.52.03:005][487]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.52.03:005][487]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.52.03:790][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-02.52.03:815][579]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player7B094EC4481687B834B7F4A536E9F8A6.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-02.52.03:825][579]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-02.52.03:825][579]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-02.52.06:497][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-02.52.06:502][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-02.52.06:502][894]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 4:52:06 PM)
+[2021.09.27-02.52.06:502][894]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.52.06:504][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001366s)
+[2021.09.27-02.52.06:505][894]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-02.52.06:505][894]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2021.09.27-02.52.06:505][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002340s)
+[2021.09.27-02.52.06:531][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.09.27-02.52.06:532][894]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-02.52.06:532][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-02.52.06:532][894]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-02.52.06:532][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-02.52.06:535][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-02.52.06:535][894]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-02.52.06:542][894]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-02.52.06:542][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-02.52.06:543][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-02.52.06:543][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-02.52.06:543][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-02.52.06:543][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-02.52.06:543][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-02.52.06:555][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-02.52.06:555][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-02.52.06:555][894]LogInit: FAudioDevice initialized.
+[2021.09.27-02.52.06:555][894]LogAudio: Display: Audio Device (ID: 8) registered with world 'TutorialMap'.
+[2021.09.27-02.52.06:577][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.52.06:577][894]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-02.52.06:578][894]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-21.52.06
+[2021.09.27-02.52.06:578][894]LogWorld: Bringing up level for play took: 0.000431
+[2021.09.27-02.52.06:579][894]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.09.27-02.52.06:584][894]PIE: Server logged in
+[2021.09.27-02.52.06:585][894]PIE: Play in editor total start time 0.083 seconds.
+[2021.09.27-02.52.08:562][113]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-02.52.08:562][113]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-02.52.09:245][193]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-02.52.09:245][193]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-02.52.16:306][  1]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-02.52.16:306][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-02.52.17:087][ 91]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-02.52.17:087][ 91]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-02.52.22:911][748]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-02.52.22:912][748]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-02.52.23:465][812]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-02.52.23:465][812]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-02.52.23:645][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-02.52.23:645][827]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-02.52.23:646][827]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-02.52.23:649][827]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-02.52.23:649][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.52.23:656][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-02.52.23:660][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-02.52.23:681][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-02.52.23:682][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.52.23:683][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-02.52.23:698][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.27-02.52.23:725][828]LogPlayLevel: Display: Destroying online subsystem :Context_20
