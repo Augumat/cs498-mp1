@@ -783,3 +783,240 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-00.58.32:314][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.09.27-00.58.32:332][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.09.27-00.58.33:297][113]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-01.02.25:916][164]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.27-01.02.25:922][164]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.27-01.02.35:813][350]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HealthbarHUD
+[2021.09.27-01.02.35:815][350]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.27-01.02.46:154][841]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthbarHUD.HealthbarHUD
+[2021.09.27-01.02.46:213][841]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.27-01.02.47:202][841]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.27-01.02.49:173][ 76]LogSlate: Window 'HealthbarHUD' being destroyed
+[2021.09.27-01.02.49:177][ 76]LogSlate: Window 'HealthbarHUD' being destroyed
+[2021.09.27-01.02.49:179][ 76]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.02.49:179][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.02.49:186][ 76]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.02.49:186][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.02.53:383][451]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.27-01.02.53:390][451]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.27-01.02.59:311][162]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2021.09.27-01.02.59:313][162]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.27-01.03.02:397][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.09.27-01.03.03:602][520]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.27-01.03.03:656][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.27-01.03.05:556][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.27-01.03.06:396][740]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.27-01.03.06:435][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.09.27-01.03.08:293][958]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.27-01.03.08:299][958]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.27-01.03.12:418][453]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HealthBarHUD
+[2021.09.27-01.03.12:420][453]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.27-01.03.15:797][699]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.04.13:202][485]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.09.27-01.04.13:580][485]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.378 s
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: === Handled ensure: ===
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: 
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: Ensure condition failed: ScopedTransaction != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UMGEditor/Private/Extensions/DesignerExtension.cpp] [Line: 60]
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: 
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: Stack: 
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: [Callstack] 0x00007ffbf4a1a268 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: [Callstack] 0x00007ffbf49105e4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: [Callstack] 0x00007ffbf485ac1f UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.09.27-01.04.13:580][485]LogOutputDevice: Error: [Callstack] 0x00007ffbf4837c66 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc2cf931de UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc3c2f41ff UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc3c2d3a21 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc3c358170 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc3c340337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc3c333632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc553fbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc553e9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc553fe389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc553e4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc77b9e7e8 USER32.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc77b9e229 USER32.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc553ff914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ff638768848 UE4Editor.exe!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ff63878117c UE4Editor.exe!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ff63878125a UE4Editor.exe!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ff6387952bd UE4Editor.exe!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ff638797fea UE4Editor.exe!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc77a87034 KERNEL32.DLL!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: [Callstack] 0x00007ffc78b62651 ntdll.dll!UnknownFunction []
+[2021.09.27-01.04.13:581][485]LogOutputDevice: Error: 
+[2021.09.27-01.04.13:590][485]LogStats:                SubmitErrorReport -  0.000 s
+[2021.09.27-01.04.15:005][485]LogStats:                    SendNewReport -  1.415 s
+[2021.09.27-01.04.15:005][485]LogStats:             FDebug::EnsureFailed -  1.803 s
+[2021.09.27-01.04.15:008][485]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.27-01.04.15:023][485]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-01.04.15:023][485]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-01.07.47:850][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-01.07.47:854][123]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUDF1828080486A42D2E7EC76B068B16ADF.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/HealthBarHUD.uasset'
+[2021.09.27-01.07.47:863][123]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-01.07.47:863][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.07.49:214][284]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-01.07.49:236][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.27-01.08.06:434][ 82]LogSlate: Window 'HealthBarHUD' being destroyed
+[2021.09.27-01.08.06:437][ 82]LogSlate: Window 'HealthBarHUD' being destroyed
+[2021.09.27-01.08.06:439][ 82]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.08.06:439][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.08.06:444][ 82]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.08.06:444][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.SKEL_HealthBarHUD_C' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD_C' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.SKEL_HealthBarHUD_C:PreConstruct' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.SKEL_HealthBarHUD_C:Construct' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:246][529]LogMetaData: Removing '/Game/InfiniteMatrix/Blueprints/HealthBarHUD.SKEL_HealthBarHUD_C:Tick' ref from Metadata '/Game/HealthBarHUD.PackageMetaData'
+[2021.09.27-01.08.10:261][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-01.08.10:265][529]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD2FD01E3B483A8EC869BDC89F8ACA552C.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset'
+[2021.09.27-01.08.10:308][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.09.27-01.08.10:323][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.27-01.08.10:332][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.09.27-01.08.10:363][529]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-01.08.10:363][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.08.17:333][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-01.08.17:757][363]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.27-01.09.00:238][646]LogEditorTransaction: Undo Create Reroute Node
+[2021.09.27-01.11.26:019][359]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.11.26:049][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-01.11.26:089][359]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.27-01.11.26:651][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-01.11.26:672][425]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player960EAF0D4A79005A5F0169A78FF1F27C.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-01.11.26:681][425]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-01.11.26:681][425]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-01.11.43:561][422]LogSlate: Took 0.004707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.27-01.11.53:933][651]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.11.53:959][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.09.27-01.12.45:785][106]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.12.45:812][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.09.27-01.12.50:822][695]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.12.50:848][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.27-01.12.51:415][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-01.12.51:436][757]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player78BDD3EE4F1CD327E838118C428FE042.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-01.12.51:445][757]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-01.12.51:445][757]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-01.12.59:746][609]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.18.08:822][661]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-01.18.08:828][661]LogBlueprint: Warning: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\HealthBarHUD.uasset: [Compiler] 'BP Player' does not inherit from 'Character' ( Cast To BP_Player  would always fail).
+[2021.09.27-01.18.08:847][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.27-01.18.09:557][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-01.18.09:565][741]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD1D1240884BB3981C13C0269BFEE83BFE.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset'
+[2021.09.27-01.18.09:575][741]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-01.18.09:575][741]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.21.51:845][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.09.27-01.21.51:846][721]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.019
+[2021.09.27-01.21.51:847][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/HealthBarHUD] ([1] browsable assets)...
+[2021.09.27-01.21.51:847][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/HealthBarHUD]
+[2021.09.27-01.21.51:855][721]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD_Auto108BC2F964D97C7BDE37460896D98C85D.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/HealthBarHUD_Auto1.uasset'
+[2021.09.27-01.21.51:855][721]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.09.27-01.22.44:386][214]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-01.22.44:393][214]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\HealthBarHUD.uasset: [Compiler] This blueprint (self) is not a BP_Player_C, therefore ' Target ' must have a connection.
+[2021.09.27-01.22.44:393][214]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\HealthBarHUD.uasset: [Compiler] This blueprint (self) is not a BP_Player_C, therefore ' Target ' must have a connection.
+[2021.09.27-01.22.44:393][214]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\HealthBarHUD.uasset: [Compiler] Variable node  Get MaxHealth  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.09.27-01.22.44:393][214]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\HealthBarHUD.uasset: [Compiler] Variable node  Get CurrentHealth  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.09.27-01.22.44:410][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.09.27-01.23.40:031][518]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.23.40:062][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-01.23.40:576][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-01.23.40:598][573]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player43EBC0744B7A4141F9C182B8562FD12E.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-01.23.40:609][573]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-01.23.40:609][573]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-01.27.29:545][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-01.27.29:553][993]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD75368D2C434D626715D11BBFC158D0B0.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset'
+[2021.09.27-01.27.29:561][993]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-01.27.29:561][993]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.27.30:631][116]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-01.27.30:663][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.09.27-01.27.58:107][361]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-01.27.58:126][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.09.27-01.27.58:736][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-01.27.58:743][430]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUDDB96AFEC4307F0458612B9A500A5D71D.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset'
+[2021.09.27-01.27.58:751][430]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-01.27.58:751][430]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.28.00:801][668]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.28.00:833][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-01.28.01:539][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-01.28.01:561][743]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player97E5F3DA42F2AB4B7B8FB195214E5247.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-01.28.01:570][743]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-01.28.01:570][743]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-01.28.06:073][273]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-01.28.06:078][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-01.28.06:078][273]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 3:28:06 PM)
+[2021.09.27-01.28.06:079][273]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.27-01.28.06:080][273]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.27-01.28.06:080][273]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-01.28.06:081][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001292s)
+[2021.09.27-01.28.06:082][273]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-01.28.06:082][273]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2021.09.27-01.28.06:082][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002181s)
+[2021.09.27-01.28.06:097][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.09.27-01.28.06:098][273]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-01.28.06:098][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-01.28.06:098][273]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-01.28.06:098][273]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-01.28.06:101][273]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-01.28.06:101][273]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-01.28.06:108][273]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-01.28.06:108][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-01.28.06:108][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-01.28.06:108][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-01.28.06:109][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-01.28.06:109][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-01.28.06:109][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-01.28.06:120][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-01.28.06:120][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-01.28.06:120][273]LogInit: FAudioDevice initialized.
+[2021.09.27-01.28.06:120][273]LogAudio: Display: Audio Device (ID: 2) registered with world 'TutorialMap'.
+[2021.09.27-01.28.06:141][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-01.28.06:141][273]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-01.28.06:142][273]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-20.28.06
+[2021.09.27-01.28.06:142][273]LogWorld: Bringing up level for play took: 0.000370
+[2021.09.27-01.28.06:142][273]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.09.27-01.28.06:149][273]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.27-01.28.06:154][273]PIE: Server logged in
+[2021.09.27-01.28.06:155][273]PIE: Play in editor total start time 0.078 seconds.
+[2021.09.27-01.28.07:288][366]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.28.07:288][366]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-01.28.07:993][447]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.28.07:993][447]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.28.09:231][584]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.28.09:231][584]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.28.10:447][722]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.28.10:447][722]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.28.16:664][393]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.28.16:664][393]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.28.17:578][494]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.28.17:578][494]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.28.20:037][769]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.28.20:037][769]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.28.20:880][867]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.28.20:880][867]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.28.22:090][  4]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.28.22:090][  4]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.28.23:517][163]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.28.23:517][163]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.28.24:729][301]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.28.24:729][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.28.26:570][506]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-01.28.26:576][506]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-01.28.26:621][506]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.28.26:621][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.28.26:628][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-01.28.26:633][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.28.26:649][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-01.28.26:651][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-01.28.26:652][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-01.28.26:686][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.09.27-01.28.26:705][507]LogPlayLevel: Display: Destroying online subsystem :Context_11
