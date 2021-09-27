@@ -2777,3 +2777,703 @@ Make sure 'BP_Tunnel_C' has been compiled for  Randomize Health Pack
 [2021.09.27-03.59.01:778][927]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.27-03.59.01:778][927]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
 [2021.09.27-03.59.01:778][927]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.27-04.03.10:107][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-04.03.39:269][341]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-04.03.39:273][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-04.03.39:273][341]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 6:03:39 PM)
+[2021.09.27-04.03.39:273][341]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.03.39:275][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001283s)
+[2021.09.27-04.03.39:275][341]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-04.03.39:276][341]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2021.09.27-04.03.39:276][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002162s)
+[2021.09.27-04.03.39:291][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.09.27-04.03.39:296][341]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-04.03.39:296][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-04.03.39:296][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-04.03.39:297][341]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-04.03.39:297][341]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-04.03.39:299][341]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-04.03.39:299][341]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-04.03.39:306][341]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-04.03.39:306][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-04.03.39:306][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-04.03.39:306][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-04.03.39:306][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-04.03.39:306][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-04.03.39:306][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-04.03.39:317][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-04.03.39:317][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-04.03.39:317][341]LogInit: FAudioDevice initialized.
+[2021.09.27-04.03.39:317][341]LogAudio: Display: Audio Device (ID: 19) registered with world 'TutorialMap'.
+[2021.09.27-04.03.39:338][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.03.39:339][341]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-04.03.39:340][341]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-23.03.39
+[2021.09.27-04.03.39:340][341]LogWorld: Bringing up level for play took: 0.000477
+[2021.09.27-04.03.39:340][341]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.09.27-04.03.39:347][341]PIE: Server logged in
+[2021.09.27-04.03.39:348][341]PIE: Play in editor total start time 0.075 seconds.
+[2021.09.27-04.03.42:756][661]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.03.42:756][661]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-04.03.43:503][732]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.03.43:503][732]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.03.46:982][ 63]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.03.46:982][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.03.47:457][110]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.03.47:457][110]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.03.49:131][267]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.03.49:131][267]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.03.49:829][335]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.03.49:829][335]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.03.52:062][546]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.03.52:062][546]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.03.52:532][590]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.03.52:532][590]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.03.58:494][161]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.03.58:494][161]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.03.58:975][207]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.03.58:975][207]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.01:213][425]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.01:213][425]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.01:560][459]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.01:560][459]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.03:781][673]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.03:781][673]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.04:148][707]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.04:148][707]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.06:375][924]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.06:375][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.06:649][952]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.06:649][952]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.10:108][289]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.10:108][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.10:943][369]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.10:943][369]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.13:185][585]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.13:186][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.13:713][636]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.13:713][636]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.15:933][846]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.15:933][846]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.16:417][892]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.16:417][892]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.18:647][106]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.18:647][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.19:165][156]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.19:165][156]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.21:419][370]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.21:419][370]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.21:913][418]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.21:913][418]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.25:428][750]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.25:428][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.26:345][838]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.26:345][838]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.04.51:057][195]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.04.51:057][195]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.04.51:630][251]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.04.51:630][251]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.05.02:259][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.05.02:259][258]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.05.02:259][258]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-04.05.02:263][258]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-04.05.02:264][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.05.02:271][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-04.05.02:275][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.05.02:287][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-04.05.02:287][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.05.02:288][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.05.02:313][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.09.27-04.05.02:335][259]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.09.27-04.05.28:581][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-04.05.28:603][329]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel12A381BF4A1EB95D2C487B8AEBECAD69.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-04.05.28:613][329]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-04.05.28:613][329]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-04.05.33:190][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2021.09.27-04.05.34:477][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-04.05.35:278][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2021.09.27-04.06.44:425][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2021.09.27-04.06.44:442][213]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelSpawnerDF64AB214089CD3ABB83088EE4BD5505.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2021.09.27-04.06.44:452][213]AssetCheck: New page: Asset Save: BP_TunnelSpawner
+[2021.09.27-04.06.44:452][213]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2021.09.27-04.06.44:889][263]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2021.09.27-04.06.44:934][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.09.27-04.06.45:711][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2021.09.27-04.06.45:728][344]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelSpawner9B44EE164B670470778CC5A2505A19EA.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2021.09.27-04.06.45:738][344]AssetCheck: New page: Asset Save: BP_TunnelSpawner
+[2021.09.27-04.06.45:738][344]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2021.09.27-04.06.48:876][715]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-04.06.48:881][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-04.06.48:881][715]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 6:06:48 PM)
+[2021.09.27-04.06.48:881][715]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.06.48:882][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001245s)
+[2021.09.27-04.06.48:883][715]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-04.06.48:883][715]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2021.09.27-04.06.48:883][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002119s)
+[2021.09.27-04.06.48:902][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.27-04.06.48:903][715]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-04.06.48:903][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-04.06.48:903][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-04.06.48:904][715]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-04.06.48:904][715]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-04.06.48:906][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-04.06.48:906][715]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-04.06.48:913][715]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-04.06.48:913][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-04.06.48:913][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-04.06.48:913][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-04.06.48:914][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-04.06.48:914][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-04.06.48:914][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-04.06.48:925][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-04.06.48:925][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-04.06.48:925][715]LogInit: FAudioDevice initialized.
+[2021.09.27-04.06.48:925][715]LogAudio: Display: Audio Device (ID: 20) registered with world 'TutorialMap'.
+[2021.09.27-04.06.48:950][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.06.48:950][715]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-04.06.48:951][715]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-23.06.48
+[2021.09.27-04.06.48:951][715]LogWorld: Bringing up level for play took: 0.000405
+[2021.09.27-04.06.48:951][715]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.09.27-04.06.48:958][715]PIE: Server logged in
+[2021.09.27-04.06.48:958][715]PIE: Play in editor total start time 0.078 seconds.
+[2021.09.27-04.07.00:166][865]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.00:166][865]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-04.07.00:612][912]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.00:612][912]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.10:155][901]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.10:155][901]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.10:723][961]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.10:723][961]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.14:098][312]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.14:098][312]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.14:619][369]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.14:619][369]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.20:485][972]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.20:485][972]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.20:886][ 13]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.20:886][ 13]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.23:086][237]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.23:086][237]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.23:853][315]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.23:853][315]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.25:980][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.25:980][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.26:351][577]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.26:351][577]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.28:496][801]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.28:496][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.28:858][841]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.28:858][841]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.30:983][ 67]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.30:983][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.31:348][105]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.31:348][105]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.33:472][331]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.33:472][331]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.33:830][368]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.33:830][368]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.35:969][594]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.35:969][594]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.36:338][635]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.36:338][635]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.40:964][119]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.40:964][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.41:297][153]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.41:297][153]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.44:687][511]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.44:687][511]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.45:302][578]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.45:302][578]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.48:672][927]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.48:672][927]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.49:333][998]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.49:333][998]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.52:725][352]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.07.52:725][352]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-04.07.53:615][446]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.07.53:615][446]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.07.59:727][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.07.59:727][ 77]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.07.59:728][ 77]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-04.07.59:733][ 77]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-04.07.59:733][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.07.59:740][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-04.07.59:744][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.07.59:761][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-04.07.59:761][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.07.59:762][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.07.59:778][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.27-04.07.59:811][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.09.27-04.08.39:541][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset" SILENT=true
+[2021.09.27-04.08.39:559][ 62]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelSpawnerF222F10943BE2D897609CBAB7C292259.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2021.09.27-04.08.39:568][ 62]AssetCheck: New page: Asset Save: BP_TunnelSpawner
+[2021.09.27-04.08.39:568][ 62]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2021.09.27-04.09.50:956][777]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-04.09.50:960][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-04.09.50:960][777]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 6:09:50 PM)
+[2021.09.27-04.09.50:961][777]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.09.50:962][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2021.09.27-04.09.50:963][777]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-04.09.50:963][777]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2021.09.27-04.09.50:963][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002190s)
+[2021.09.27-04.09.50:984][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.09.27-04.09.50:986][777]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-04.09.50:986][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-04.09.50:986][777]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-04.09.50:986][777]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-04.09.50:989][777]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-04.09.50:989][777]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-04.09.50:996][777]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-04.09.50:997][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-04.09.50:997][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-04.09.50:997][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-04.09.50:997][777]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-04.09.50:997][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-04.09.50:997][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-04.09.51:009][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-04.09.51:009][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-04.09.51:009][777]LogInit: FAudioDevice initialized.
+[2021.09.27-04.09.51:009][777]LogAudio: Display: Audio Device (ID: 21) registered with world 'TutorialMap'.
+[2021.09.27-04.09.51:030][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.09.51:030][777]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-04.09.51:031][777]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-23.09.51
+[2021.09.27-04.09.51:031][777]LogWorld: Bringing up level for play took: 0.000312
+[2021.09.27-04.09.51:031][777]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.09.27-04.09.51:037][777]PIE: Server logged in
+[2021.09.27-04.09.51:038][777]PIE: Play in editor total start time 0.078 seconds.
+[2021.09.27-04.09.54:265][137]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-04.09.54:265][137]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-04.09.55:086][232]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-04.09.55:086][232]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-04.09.56:766][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.09.56:766][417]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.09.56:767][417]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-04.09.56:773][417]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-04.09.56:773][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.09.56:779][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-04.09.56:783][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.09.56:802][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.09.56:803][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.09.56:819][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.27-04.09.56:849][418]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.09.27-04.11.41:987][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.09.27-04.11.41:996][468]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/TutorialMap_Auto6D062EF6F4CB04D1E451F9B9E03B896C4.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto6.umap'
+[2021.09.27-04.11.41:997][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.029
+[2021.09.27-04.11.41:997][468]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2021.09.27-04.11.41:997][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2021.09.27-04.11.41:997][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2021.09.27-04.11.42:023][468]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player_Auto65E1C630F4ED9D7B2CFB5179EEEEC717C.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto6.uasset'
+[2021.09.27-04.11.42:025][468]LogFileHelpers: Auto-saving content packages took 0.028
+[2021.09.27-04.12.58:647][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-04.12.58:672][811]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player542613F94E21631807F33FB3A93B99BF.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-04.12.58:682][811]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-04.12.58:682][811]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-04.17.36:844][244]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-04.17.36:859][244]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_Player.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.09.27-04.17.36:893][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.27-04.17.41:831][763]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.27-04.17.52:623][465]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.27-04.17.52:629][465]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.27-04.17.52:641][465]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.27-04.17.57:280][ 11]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Bullet
+[2021.09.27-04.17.57:283][ 11]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.27-04.18.07:325][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
+[2021.09.27-04.18.26:421][292]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:421][292]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:429][293]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:429][293]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:429][293]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:438][294]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:438][294]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:438][294]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:446][295]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:446][295]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:446][295]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:454][296]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:455][296]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:455][296]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:463][297]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:463][297]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:463][297]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:471][298]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:471][298]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:471][298]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:480][299]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:480][299]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:480][299]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:488][300]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:488][300]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:488][300]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:497][301]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:497][301]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:497][301]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:505][302]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:505][302]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:505][302]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:514][303]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:514][303]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:514][303]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:522][304]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:523][304]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:523][304]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:531][305]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:531][305]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:531][305]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:539][306]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:539][306]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:539][306]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:547][307]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:548][307]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:548][307]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:556][308]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:556][308]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:556][308]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:564][309]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:564][309]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:564][309]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:572][310]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:573][310]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:573][310]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:581][311]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:581][311]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:581][311]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:589][312]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:589][312]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:589][312]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:597][313]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:598][313]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:598][313]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:606][314]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:606][314]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:606][314]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:614][315]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:614][315]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:614][315]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:622][316]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:623][316]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:623][316]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:631][317]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:631][317]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:631][317]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:639][318]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:639][318]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:639][318]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:648][319]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:648][319]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:648][319]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:656][320]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:656][320]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:656][320]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:664][321]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:665][321]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:665][321]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:673][322]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:673][322]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:673][322]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:681][323]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:681][323]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:681][323]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:689][324]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:690][324]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:690][324]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:698][325]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:698][325]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:698][325]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:706][326]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:706][326]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:707][326]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:715][327]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:715][327]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:715][327]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:723][328]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:723][328]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:723][328]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:731][329]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:731][329]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:731][329]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:740][330]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:740][330]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:740][330]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:748][331]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:748][331]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:748][331]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:756][332]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:757][332]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:757][332]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:765][333]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:765][333]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:765][333]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:773][334]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:773][334]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:773][334]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:781][335]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:782][335]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:782][335]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:790][336]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:790][336]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:790][336]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:798][337]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:798][337]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:798][337]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:806][338]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:807][338]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:807][338]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:815][339]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:815][339]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:815][339]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:823][340]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:823][340]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:823][340]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:832][341]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:832][341]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:832][341]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:840][342]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:840][342]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:841][342]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:849][343]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:849][343]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:849][343]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:858][344]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:858][344]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:858][344]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:867][345]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:867][345]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:867][345]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:876][346]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.26:876][346]LogPhysics: Warning: Scale for /Engine/Transient.World_31:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=1.000 Z=0.000
+[2021.09.27-04.18.53:529][358]LogSlate: Took 0.004279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.27-04.18.54:885][358]LogSlate: Window 'Save Asset As' being destroyed
+[2021.09.27-04.19.47:618][482]BlueprintLog: New page: Compile BP_Bullet
+[2021.09.27-04.19.47:667][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.27-04.19.48:632][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Bullet" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset" SILENT=true
+[2021.09.27-04.19.48:639][588]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_BulletC24C74CD4D8D6C276AB40091A050811E.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset'
+[2021.09.27-04.19.48:650][588]AssetCheck: New page: Asset Save: BP_Bullet
+[2021.09.27-04.19.48:650][588]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
+[2021.09.27-04.19.49:980][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Bullet" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset" SILENT=true
+[2021.09.27-04.19.49:983][742]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_BulletD9F13A374110EB4FB68137A04CFE8020.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset'
+[2021.09.27-04.19.49:992][742]AssetCheck: New page: Asset Save: BP_Bullet
+[2021.09.27-04.19.49:992][742]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
+[2021.09.27-04.19.57:015][510]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.27-04.20.08:643][664]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-04.20.08:689][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.09.27-04.21.28:718][710]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-04.21.28:760][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-04.22.05:498][873]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_FloatFloat' [Element not found.]
+[2021.09.27-04.22.39:833][814]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-04.22.39:875][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.09.27-04.25.04:593][829]LogEditorTransaction: Undo Move Node
+[2021.09.27-04.25.24:393][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-04.25.24:422][937]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player0C2337FC43D7201175400CA997F8A97A.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-04.25.24:432][937]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-04.25.24:432][937]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-04.27.28:319][172]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-04.27.28:375][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.27-04.27.55:266][247]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-04.27.55:306][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.27-04.27.56:224][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-04.27.56:249][343]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel0438C71E49C16A48F045FDA97AF6954A.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-04.27.56:258][343]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-04.27.56:258][343]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-04.31.39:800][957]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.09.27-04.31.41:495][134]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.09.27-04.31.41:498][134]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.09.27-04.33.07:373][202]BlueprintLog: New page: Compile BP_HealthPack
+[2021.09.27-04.33.07:376][202]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C'
+[2021.09.27-04.33.07:376][202]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C'
+[2021.09.27-04.33.07:412][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.27-04.33.32:041][ 39]BlueprintLog: New page: Compile BP_HealthPack
+[2021.09.27-04.33.32:044][ 39]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C'
+[2021.09.27-04.33.32:044][ 39]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C'
+[2021.09.27-04.33.32:077][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.27-04.33.52:132][360]BlueprintLog: New page: Compile BP_HealthPack
+[2021.09.27-04.33.52:136][360]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C'
+[2021.09.27-04.33.52:136][360]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_HealthPack.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack_C'
+[2021.09.27-04.33.52:171][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.09.27-04.34.09:821][287]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-04.34.09:874][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-04.34.10:504][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-04.34.10:534][347]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player8645264545794A5609152CBB3DF91DB9.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-04.34.10:545][347]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-04.34.10:545][347]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-04.34.13:063][619]BlueprintLog: New page: Compile BP_HealthPack
+[2021.09.27-04.34.13:100][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.27-04.34.13:855][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_HealthPack" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset" SILENT=true
+[2021.09.27-04.34.13:871][701]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_HealthPack71819D2E474FEFC49732C490312D54EB.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset'
+[2021.09.27-04.34.13:881][701]AssetCheck: New page: Asset Save: BP_HealthPack
+[2021.09.27-04.34.13:881][701]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_HealthPack.BP_HealthPack
+[2021.09.27-04.36.17:999][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-04.36.18:026][891]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel8BD0451A4FF508D401D88AAC244E85A7.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-04.36.18:037][891]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-04.36.18:037][891]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-04.36.24:503][612]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-04.36.24:508][612]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.27-04.36.24:509][612]LogPlayLevel: [PlayLevel] Compiling BP_Tunnel before play...
+[2021.09.27-04.36.24:571][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.09.27-04.36.24:572][612]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2021.09.27-04.36.24:572][612]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 6:36:24 PM)
+[2021.09.27-04.36.24:573][612]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.36.24:574][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2021.09.27-04.36.24:575][612]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-04.36.24:575][612]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.09.27-04.36.24:575][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002275s)
+[2021.09.27-04.36.24:594][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.09.27-04.36.24:594][612]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.09.27-04.36.24:594][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-04.36.24:594][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-04.36.24:594][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-04.36.24:594][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-04.36.24:594][612]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-04.36.24:594][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-04.36.24:595][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-04.36.24:595][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-04.36.24:595][612]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-04.36.24:595][612]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-04.36.24:597][612]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-04.36.24:597][612]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-04.36.24:605][612]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-04.36.24:605][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-04.36.24:605][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-04.36.24:605][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-04.36.24:605][612]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-04.36.24:605][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-04.36.24:605][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-04.36.24:616][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-04.36.24:616][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-04.36.24:616][612]LogInit: FAudioDevice initialized.
+[2021.09.27-04.36.24:616][612]LogAudio: Display: Audio Device (ID: 22) registered with world 'TutorialMap'.
+[2021.09.27-04.36.24:629][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.36.24:629][612]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-04.36.24:630][612]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-23.36.24
+[2021.09.27-04.36.24:630][612]LogWorld: Bringing up level for play took: 0.000444
+[2021.09.27-04.36.24:630][612]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.09.27-04.36.24:637][612]PIE: Server logged in
+[2021.09.27-04.36.24:638][612]PIE: Play in editor total start time 0.131 seconds.
+[2021.09.27-04.36.41:477][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.36.41:477][159]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.36.41:477][159]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-04.36.41:482][159]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-04.36.41:482][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.36.41:491][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-04.36.41:495][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.36.41:515][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.36.41:516][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.36.41:533][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.09.27-04.36.41:558][160]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.09.27-04.36.52:965][476]BlueprintLog: New page: Compile BP_Bullet
+[2021.09.27-04.36.53:020][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.09.27-04.36.53:586][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Bullet" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset" SILENT=true
+[2021.09.27-04.36.53:592][531]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Bullet3CA3B4A44A83451328D57A889C8C9F37.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset'
+[2021.09.27-04.36.53:602][531]AssetCheck: New page: Asset Save: BP_Bullet
+[2021.09.27-04.36.53:602][531]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
+[2021.09.27-04.37.46:346][464]LogEditorTransaction: Undo Move Node
+[2021.09.27-04.37.57:021][673]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Multiply_FloatFloat' [Element not found.]
+[2021.09.27-04.38.38:351][511]BlueprintLog: New page: Compile BP_Bullet
+[2021.09.27-04.38.38:365][511]LogBlueprint: Warning: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_Bullet.uasset: [Compiler] Could not find a variable named "CurrentForwardSpeed" in 'BP_Bullet_C'.
+Make sure 'BP_Bullet_C' has been compiled for  Get CurrentForwardSpeed
+[2021.09.27-04.38.38:365][511]LogBlueprint: Warning: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_Bullet.uasset: [Compiler] Could not find a variable named "BulletSpeedMultiplier" in 'BP_Bullet_C'.
+Make sure 'BP_Bullet_C' has been compiled for  Get BulletSpeedMultiplier
+[2021.09.27-04.38.38:365][511]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_Bullet.uasset: [Compiler] The property associated with  Current Forward Speed  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet_C'
+[2021.09.27-04.38.38:366][511]LogBlueprint: Error: [AssetLog] C:\Users\Work Ethic\Desktop\s7\cs498\projects\cs498-mp1\MP1\Content\InfiniteMatrix\Blueprints\BP_Bullet.uasset: [Compiler] The property associated with  Bullet Speed Multiplier  could not be found in '/Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet_C'
+[2021.09.27-04.38.38:401][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-04.39.13:300][553]BlueprintLog: New page: Compile BP_Bullet
+[2021.09.27-04.39.13:337][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.09.27-04.39.14:000][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Bullet" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset" SILENT=true
+[2021.09.27-04.39.14:009][626]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Bullet85BE1F6A40646127669A6C8A035FE16E.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset'
+[2021.09.27-04.39.14:018][626]AssetCheck: New page: Asset Save: BP_Bullet
+[2021.09.27-04.39.14:018][626]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
+[2021.09.27-04.39.18:999][203]BlueprintLog: New page: Compile BP_Bullet
+[2021.09.27-04.39.19:036][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.09.27-04.39.19:514][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Bullet" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset" SILENT=true
+[2021.09.27-04.39.19:523][254]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Bullet4B5F2DE54687C6A1CF1A738B5F0DA317.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset'
+[2021.09.27-04.39.19:532][254]AssetCheck: New page: Asset Save: BP_Bullet
+[2021.09.27-04.39.19:532][254]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Bullet.BP_Bullet
+[2021.09.27-04.40.02:182][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-04.40.02:211][107]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player9F2C49FD46C595DBE43087A028FD86F6.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-04.40.02:221][107]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-04.40.02:221][107]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-04.40.02:925][185]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-04.40.02:974][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.27-04.40.03:643][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-04.40.03:671][252]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player60ACFDD048034BE87BA8A48644986C07.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-04.40.03:681][252]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-04.40.03:681][252]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-04.40.05:939][513]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-04.40.05:944][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-04.40.05:944][513]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 6:40:05 PM)
+[2021.09.27-04.40.05:944][513]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.40.05:945][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001365s)
+[2021.09.27-04.40.05:946][513]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-04.40.05:946][513]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.09.27-04.40.05:946][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002365s)
+[2021.09.27-04.40.05:970][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.09.27-04.40.05:971][513]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-04.40.05:971][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-04.40.05:971][513]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-04.40.05:971][513]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-04.40.05:973][513]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-04.40.05:973][513]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-04.40.05:981][513]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-04.40.05:981][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-04.40.05:981][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-04.40.05:981][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-04.40.05:981][513]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-04.40.05:981][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-04.40.05:981][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-04.40.05:982][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-04.40.05:982][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-04.40.05:982][513]LogInit: FAudioDevice initialized.
+[2021.09.27-04.40.05:982][513]LogAudio: Display: Audio Device (ID: 23) registered with world 'TutorialMap'.
+[2021.09.27-04.40.06:004][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.40.06:005][513]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-04.40.06:005][513]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-23.40.06
+[2021.09.27-04.40.06:006][513]LogWorld: Bringing up level for play took: 0.000386
+[2021.09.27-04.40.06:006][513]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.09.27-04.40.06:013][513]PIE: Server logged in
+[2021.09.27-04.40.06:015][513]PIE: Play in editor total start time 0.072 seconds.
+[2021.09.27-04.40.13:655][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-04.40.13:655][255]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-04.40.13:656][255]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-04.40.13:661][255]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-04.40.13:661][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.40.13:671][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-04.40.13:675][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-04.40.13:693][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-04.40.13:693][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.40.13:694][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-04.40.13:709][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.09.27-04.40.13:736][256]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.09.27-04.41.29:218][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.27-04.41.29:228][232]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/TutorialMap_Auto7E12775D6464F5282C0A7308208044F59.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto7.umap'
+[2021.09.27-04.41.29:229][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.030
+[2021.09.27-04.41.29:229][232]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2021.09.27-04.41.51:350][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-04.41.51:377][713]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelFAB69E6649A9219867D113A1A4173DEE.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-04.41.51:387][713]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-04.41.51:387][713]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-04.41.52:061][791]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-04.41.52:104][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
