@@ -1035,3 +1035,179 @@ Script Stack (0 frames):
 [2021.09.27-01.37.32:793][639]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD91C9CE4440EE7D1E75F0D3B892633051.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset'
 [2021.09.27-01.37.32:802][639]AssetCheck: New page: Asset Save: HealthBarHUD
 [2021.09.27-01.37.32:802][639]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
+[2021.09.27-01.45.49:162][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-01.48.13:495][576]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-01.48.13:540][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.09.27-01.50.15:011][888]LogEditorTransaction: Undo Move Node
+[2021.09.27-01.51.14:129][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.09.27-01.51.14:131][527]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.027
+[2021.09.27-01.51.14:131][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2021.09.27-01.51.14:146][527]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2021.09.27-01.51.14:146][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2021.09.27-01.51.14:167][527]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel_Auto29BC4EB5B4707495C3C1EF1AC4FB7C3E6.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto2.uasset'
+[2021.09.27-01.51.14:167][527]LogFileHelpers: Auto-saving content packages took 0.036
+[2021.09.27-01.55.11:891][845]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-01.55.11:932][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.27-01.55.13:599][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-01.55.13:619][ 36]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_TunnelB5EA5A2849C84C4A0EDF06BD5B14A78F.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-01.55.13:630][ 36]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-01.55.13:630][ 36]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-01.55.15:391][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-01.55.15:395][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-01.55.15:396][243]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 3:55:15 PM)
+[2021.09.27-01.55.15:396][243]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-01.55.15:397][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001416s)
+[2021.09.27-01.55.15:398][243]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-01.55.15:398][243]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2021.09.27-01.55.15:398][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002335s)
+[2021.09.27-01.55.15:422][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.09.27-01.55.15:422][243]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-01.55.15:422][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-01.55.15:423][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-01.55.15:423][243]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-01.55.15:423][243]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-01.55.15:425][243]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-01.55.15:425][243]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-01.55.15:433][243]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-01.55.15:433][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-01.55.15:433][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-01.55.15:433][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-01.55.15:433][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-01.55.15:433][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-01.55.15:433][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-01.55.15:445][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-01.55.15:445][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-01.55.15:445][243]LogInit: FAudioDevice initialized.
+[2021.09.27-01.55.15:445][243]LogAudio: Display: Audio Device (ID: 3) registered with world 'TutorialMap'.
+[2021.09.27-01.55.15:469][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-01.55.15:469][243]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-01.55.15:470][243]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-20.55.15
+[2021.09.27-01.55.15:470][243]LogWorld: Bringing up level for play took: 0.000449
+[2021.09.27-01.55.15:470][243]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.27-01.55.15:476][243]PIE: Server logged in
+[2021.09.27-01.55.15:477][243]PIE: Play in editor total start time 0.082 seconds.
+[2021.09.27-01.55.16:684][382]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.16:684][382]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-01.55.17:602][492]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.17:602][492]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.20:143][794]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.20:143][794]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.20:786][871]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.20:786][871]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.23:319][172]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.23:319][172]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.23:995][253]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.23:995][253]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.26:481][548]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.26:481][548]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.27:493][668]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.27:493][668]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.28:785][820]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.28:785][820]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.29:419][896]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.29:419][896]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.30:706][ 49]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.30:706][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.31:416][134]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.31:416][134]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.32:704][287]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.32:704][287]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.33:439][375]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.33:439][375]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.40:974][272]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.40:974][272]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.42:095][406]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.42:095][406]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.48:374][154]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.48:374][154]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.49:158][248]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.49:159][248]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.55.51:656][545]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.55.51:657][545]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.55.53:593][775]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.55.53:593][775]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.56.06:107][259]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.56.06:107][259]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.56.07:988][484]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-01.56.07:995][484]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-01.56.08:031][484]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.56.08:031][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.56.08:036][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-01.56.08:041][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.56.08:060][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-01.56.08:061][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-01.56.08:077][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.09.27-01.56.08:099][485]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.27-01.56.21:570][ 86]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.27-01.56.21:614][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.09.27-01.56.22:198][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2021.09.27-01.56.22:218][148]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Tunnel5F2CF2774871DE47A6F4E0970D571592.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.27-01.56.22:229][148]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.27-01.56.22:229][148]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.27-01.56.24:709][442]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.27-01.56.24:714][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-01.56.24:714][442]PIE: New page: PIE session: TutorialMap (Sep 26, 2021, 3:56:24 PM)
+[2021.09.27-01.56.24:714][442]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-01.56.24:715][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001242s)
+[2021.09.27-01.56.24:716][442]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.27-01.56.24:716][442]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2021.09.27-01.56.24:716][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002101s)
+[2021.09.27-01.56.24:738][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.09.27-01.56.24:739][442]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-01.56.24:739][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-01.56.24:739][442]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-01.56.24:739][442]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-01.56.24:742][442]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-01.56.24:742][442]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-01.56.24:749][442]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Alpha S Game)
+[2021.09.27-01.56.24:749][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-01.56.24:749][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-01.56.24:749][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-01.56.24:749][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-01.56.24:749][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-01.56.24:749][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-01.56.24:760][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-01.56.24:760][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-01.56.24:760][442]LogInit: FAudioDevice initialized.
+[2021.09.27-01.56.24:760][442]LogAudio: Display: Audio Device (ID: 4) registered with world 'TutorialMap'.
+[2021.09.27-01.56.24:782][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-01.56.24:782][442]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.27-01.56.24:782][442]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-20.56.24
+[2021.09.27-01.56.24:783][442]LogWorld: Bringing up level for play took: 0.000435
+[2021.09.27-01.56.24:783][442]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.09.27-01.56.24:788][442]PIE: Server logged in
+[2021.09.27-01.56.24:789][442]PIE: Play in editor total start time 0.076 seconds.
+[2021.09.27-01.56.32:846][335]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.56.32:846][335]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.27-01.56.33:512][411]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.56.33:512][411]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.56.38:076][925]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.56.38:076][925]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.56.39:087][ 41]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.27-01.56.39:087][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.27-01.56.48:663][111]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.27-01.56.48:663][111]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.27-01.56.50:382][307]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.27-01.56.50:387][307]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.27-01.56.50:421][307]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-01.56.50:421][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.56.50:428][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-01.56.50:432][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-01.56.50:451][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-01.56.50:452][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-01.56.50:453][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-01.56.50:468][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.09.27-01.56.50:494][308]LogPlayLevel: Display: Destroying online subsystem :Context_14
