@@ -1020,3 +1020,18 @@ Script Stack (0 frames):
 [2021.09.27-01.28.26:652][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.27-01.28.26:686][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
 [2021.09.27-01.28.26:705][507]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.27-01.33.50:456][409]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.27-01.34.27:409][781]LogEditorTransaction: Undo Rename Node
+[2021.09.27-01.34.27:967][809]LogEditorTransaction: Undo Add Node
+[2021.09.27-01.36.49:028][418]BlueprintLog: New page: Compile BP_Player
+[2021.09.27-01.36.49:070][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.09.27-01.36.49:874][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2021.09.27-01.36.49:896][509]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/BP_Player8452A3FB4548ABC27D4BA8B1EC175850.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.27-01.36.49:906][509]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.27-01.36.49:906][509]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.27-01.37.31:825][531]BlueprintLog: New page: Compile HealthBarHUD
+[2021.09.27-01.37.31:849][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.09.27-01.37.32:785][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/HealthBarHUD" FILE="../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset" SILENT=true
+[2021.09.27-01.37.32:793][639]LogSavePackage: Moving '../../../../s7/cs498/projects/cs498-mp1/MP1/Saved/HealthBarHUD91C9CE4440EE7D1E75F0D3B892633051.tmp' to '../../../../s7/cs498/projects/cs498-mp1/MP1/Content/InfiniteMatrix/Blueprints/HealthBarHUD.uasset'
+[2021.09.27-01.37.32:802][639]AssetCheck: New page: Asset Save: HealthBarHUD
+[2021.09.27-01.37.32:802][639]LogContentValidation: Display: Validating WidgetBlueprint /Game/InfiniteMatrix/Blueprints/HealthBarHUD.HealthBarHUD
